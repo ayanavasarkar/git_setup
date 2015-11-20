@@ -1,0 +1,16 @@
+SETTING UP GIT
+
+git config --global user.name "ayanavasarkar"
+git config --global user.email "f2013206@dubai.bits-pilani.ac.in"
+
+create repo in github.com.....
+dont select init git during creating
+cd to the folder to be uploaded in terminal....
+
+
+my folder now is "fit"
+
+git init
+git remote add origin https://github.com/ayanavasarkar/fit.git
+
+
