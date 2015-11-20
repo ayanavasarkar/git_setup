@@ -21,7 +21,7 @@ git add .	(to add all files in the folder)
 
 git commit -m 'test'	(print message in codes)
 
-push master origin
+git push master origin
 
 
 

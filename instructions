@@ -21,8 +21,13 @@ git add .	(to add all files in the folder)
 
 git commit -m 'test'	(print message in codes)
 
-push master origin
+git push master origin
 
+
+changing origin
+
+git remote rm origin
+git remote add origin https://github.com/ayanavasarkar/folder
 
 
 
