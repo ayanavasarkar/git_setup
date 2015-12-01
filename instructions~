@@ -19,10 +19,16 @@ create file in the folder....
 
 git add .	(to add all files in the folder)
 
+git add . --all 	(for adding sub-folders)
 git commit -m 'test'	(print message in codes)
 
-git push master origin
+git push -u origin master
 
+
+changing origin
+
+git remote rm origin
+git remote add origin https://github.com/ayanavasarkar/folder
 
 
 
