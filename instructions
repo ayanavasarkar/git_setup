@@ -31,4 +31,9 @@ git remote rm origin
 git remote add origin https://github.com/ayanavasarkar/folder
 
 
+for the --- git error: failed to push some refs to
 
+go inside the folder to to uploaded and 
+
+git pull --rebase origin master
+git push origin master
