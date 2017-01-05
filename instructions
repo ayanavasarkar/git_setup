@@ -1,4 +1,4 @@
-SETTING UP GIT
+####SETTING UP GIT
 
 git config --global user.name "ayanavasarkar"
 git config --global user.email "f2013206@dubai.bits-pilani.ac.in"
