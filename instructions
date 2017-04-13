@@ -23,7 +23,7 @@ git add . --all 	(for adding sub-folders)
 git commit -m 'test'	(print message in codes)
 
 git push -u origin master
-
+git push -f origin master (This is way better)
 
 changing origin
 
