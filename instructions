@@ -13,7 +13,7 @@ my folder now is "fit"
 git init
 git remote add origin https://github.com/ayanavasarkar/fit.git
 
-PUSHING FILES
+#PUSHING FILES
 
 create file in the folder....
 
@@ -25,7 +25,7 @@ git commit -m 'test'	(print message in codes)
 git push -u origin master
 git push -f origin master (This is way better)
 
-changing origin
+#changing origin
 
 git remote rm origin
 git remote add origin https://github.com/ayanavasarkar/folder
@@ -33,7 +33,11 @@ git remote add origin https://github.com/ayanavasarkar/folder
 
 for the --- git error: failed to push some refs to
 
-go inside the folder to to uploaded and 
+#go inside the folder to to uploaded and 
 
 git pull --rebase origin master
 git push origin master
+
+#Check branch or change branch
+git checkout [branchname] 
+git checkout master
